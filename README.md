@@ -73,5 +73,5 @@ This thesis explores an alternative:
 
 ##  Author
 **Matilda Milisavljevic**  
-- [LinkedIn]([(https://www.linkedin.com/in/matilda-milisavljevic/])  
+- [LinkedIn](https://www.linkedin.com/in/matilda-milisavljevic/)
 - [Email](mailto:matildatkd90@gmail.com)  
